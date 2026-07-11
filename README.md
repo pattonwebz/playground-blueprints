@@ -8,6 +8,7 @@ WordPress Playground blueprints for spinning up on-demand demo sites.
 | --- | --- | --- |
 | Starter | [Launch](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/pattonwebz/playground-blueprints/main/blueprints/starter.json) | [starter.json](blueprints/starter.json) |
 | A11y Theme Unit Test | [Launch](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/pattonwebz/playground-blueprints/main/blueprints/a11y-theme-unit-test.json) | [a11y-theme-unit-test.json](blueprints/a11y-theme-unit-test.json) |
+| A11y Theme Unit Test + Accessibility Checker | [Launch](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/pattonwebz/playground-blueprints/main/blueprints/a11y-theme-unit-test-with-checker.json) | [a11y-theme-unit-test-with-checker.json](blueprints/a11y-theme-unit-test-with-checker.json) |
 
 The A11y Theme Unit Test demo imports the [WP Accessibility team's theme unit test data](https://github.com/wpaccessibility/a11y-theme-unit-test) — the standard Theme Unit Test content tuned for accessibility testing.
 

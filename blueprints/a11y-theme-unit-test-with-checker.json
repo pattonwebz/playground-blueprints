@@ -13,8 +13,18 @@
 		{
 			"step": "setSiteOptions",
 			"options": {
-				"blogname": "A11y Theme Unit Test",
+				"blogname": "A11y Theme Unit Test + Accessibility Checker",
 				"blogdescription": "Theme Unit Test data tuned for accessibility testing"
+			}
+		},
+		{
+			"step": "installPlugin",
+			"pluginData": {
+				"resource": "wordpress.org/plugins",
+				"slug": "accessibility-checker"
+			},
+			"options": {
+				"activate": true
 			}
 		},
 		{
