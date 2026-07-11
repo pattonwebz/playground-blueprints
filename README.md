@@ -7,6 +7,7 @@ WordPress Playground blueprints for spinning up on-demand demo sites.
 | Demo | Launch | Blueprint |
 | --- | --- | --- |
 | Starter | [Launch](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/pattonwebz/playground-blueprints/main/blueprints/starter.json) | [starter.json](blueprints/starter.json) |
+| Minimal Content (2 pages, 5 posts) | [Launch](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/pattonwebz/playground-blueprints/main/blueprints/minimal-content.json) | [minimal-content.json](blueprints/minimal-content.json) |
 | A11y Theme Unit Test | [Launch](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/pattonwebz/playground-blueprints/main/blueprints/a11y-theme-unit-test.json) | [a11y-theme-unit-test.json](blueprints/a11y-theme-unit-test.json) |
 | A11y Theme Unit Test + Accessibility Checker | [Launch](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/pattonwebz/playground-blueprints/main/blueprints/a11y-theme-unit-test-with-checker.json) | [a11y-theme-unit-test-with-checker.json](blueprints/a11y-theme-unit-test-with-checker.json) |
 
