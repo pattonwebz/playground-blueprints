@@ -18,6 +18,16 @@
 			}
 		},
 		{
+			"step": "installPlugin",
+			"pluginData": {
+				"resource": "wordpress.org/plugins",
+				"slug": "accessibility-checker"
+			},
+			"options": {
+				"activate": true
+			}
+		},
+		{
 			"step": "importWxr",
 			"file": {
 				"resource": "url",
